@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: index.js
+  checksum: 206c49a67a0c3ee500666d823a927161f27d283a641eb953a5e604f29506056a
+  ignore_detectors: []
+- filename: secret_keys
+  checksum: afaec4616c8d1ca011405fbf972f5e468a2e1fe8e3027fca3490ecf75b07f288
+  ignore_detectors: []
+- filename: secret_keys.pub
+  checksum: be2446f15eac9442290c852698a5bd9a9b503f877a21b9d7db1d112722740aba
+  ignore_detectors: []
+- filename: traveloka.html
+  checksum: d86ebd0898a43abd88065d95dfb139adeed191ae0c8c203319571a4efa44e50a
+  ignore_detectors: []
+
